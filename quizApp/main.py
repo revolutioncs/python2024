@@ -30,7 +30,7 @@ failedStreak = 0
 
 for i in quizes:
     if(failedStreak != 2):
-        print(i["question"])
+        print(f"Q. {i["question"].upper()}")
         x = input('Enter answer: ')
         if(x == i["answer"]):
             points+=10
