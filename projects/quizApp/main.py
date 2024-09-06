@@ -12,12 +12,12 @@ quizes=[
     {
         "question":"who is the maths teacher?",
         "answer":"raghav sir",
-        "option":["abhinav sir","raj sir","raghav sir","arun sir"]
+        "options":["abhinav sir","raj sir","raghav sir","arun sir"]
     },
     {
         "question":"who is the physics teacher?",
         "answer":"arun sir",
-        "option":["abhinav sir","raj sir","raghav sir","arun sir"]
+        "options":["abhinav sir","raj sir","raghav sir","arun sir"]
     },
     
     
